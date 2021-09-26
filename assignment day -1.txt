@@ -1,0 +1,24 @@
+by shiwansh singh bisht
+
+Submission of day-1
+
+Ans-
+
+Explanation->
+
+	values of a will be 1 , 2 , 3 , 4 , 5........z
+	values of b will be 1 , 3 , 6 , 10 , 15 ......n
+
+   	we can observe sum of z terms of a is equal to the zth term of b so
+
+	     >	 z(z+1)/2  >  n
+	     
+	     >  z*z+z > 2*n (ignore lower terms )
+
+	     >  z*z > n
+
+	     >  z > sqrt(n).
+
+	     >  time complexity will be T.C=O(sqrt(n)).	 
+
+	T.C-> O(sqrt(n)).
